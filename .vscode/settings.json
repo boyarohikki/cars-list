@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.toml": "toml",
+    "*.dart": "dart",
+    "enums.h": "c",
+    "csv_file.h": "c",
+    "structs.h": "c",
+    "csv_row_converters.h": "c",
+    "row_to_struct.h": "c",
+    "cstdlib": "c",
+    "typeinfo": "cpp",
+    "printers.h": "c",
+    "edit_funcs.h": "c",
+    "add_funcs.h": "c",
+    "utils.h": "c",
+    "csv_file_to_list.h": "c"
+  }
+}
